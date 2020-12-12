@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently exploring JavaScript, TypeScript, stylesheet, React, and other front-end tools.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohisee&layout=compact&theme=dark)
