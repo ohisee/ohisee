@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently exploring JavaScript, TypeScript, stylesheet, React, and other front-end tools.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohisee&layout=compact&theme=dark)
+<a href="https://github.com/ohisee">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohisee&layout=compact&theme=dark" alt="ohisee's github stats"/>
+</a>
+<br/>
