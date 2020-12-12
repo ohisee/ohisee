@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently exploring JavaScript, TypeScript, stylesheet, React, and other front-end tools.
+- 🔭 I’m currently exploring JavaScript, TypeScript, Cascading Style Sheets, React, and other front-end tools.
 
 <a href="https://github.com/ohisee">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohisee&layout=compact&theme=dark" alt="ohisee's github stats"/>
