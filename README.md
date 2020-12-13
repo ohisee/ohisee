@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently exploring JavaScript, TypeScript, Cascading Style Sheets, React, and other front-end tools.
+- 🌱 I’m currently learning <a href="https://graphql.org/" target="_blank">Graphql</a>.
 
 <a href="https://github.com/ohisee">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohisee&layout=compact&theme=dark" alt="ohisee's github stats"/>
